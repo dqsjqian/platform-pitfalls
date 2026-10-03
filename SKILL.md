@@ -4,7 +4,9 @@ slug: platform-pitfalls
 version: 1.0.0
 author: dqsjqian
 display_name: 平台疑难杂症速查手册
+displayName: 平台疑难杂症速查手册
 display_name_en: Platform Pitfalls Playbook
+displayName_en: Platform Pitfalls Playbook
 description: >
   Cross-platform engineering pitfalls playbook: Chinese/non-ASCII encoding
   defense (Python entrypoints, child processes, file IO, CMake
